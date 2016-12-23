@@ -7,7 +7,6 @@ base theme: classy
 libraries:
   - classy/base
   - core/normalize
-  - kawaii/global-styling
 
 libraries-extend:
   user/drupal.user:
